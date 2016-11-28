@@ -1,0 +1,15 @@
+// 既定の設定とユーザー設定を上書きするには、このファイル内に設定を挿入します
+{
+        // ファイルとフォルダーを除外するための glob パターンを構成します。
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "Config":true,
+        "Intermediate":true,
+        "Saved":true,
+        "*/Collections":true,
+        "*/Developers":true
+    }
+}
