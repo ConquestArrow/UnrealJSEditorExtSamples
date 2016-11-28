@@ -1,4 +1,5 @@
 module.exports = function (){
+    "use strict";
     const UMG = require("UMG");
     const I = require('instantiator');
     const EMaker = require("editor-maker");
