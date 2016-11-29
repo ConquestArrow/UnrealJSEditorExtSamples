@@ -12,7 +12,7 @@ function main(){
 
 
     //PropertyEditor showing props
-    class ShowProps /* SimpleDisplay */ {
+    class ShowProps {
         ctor(){
             //default value set 
 
