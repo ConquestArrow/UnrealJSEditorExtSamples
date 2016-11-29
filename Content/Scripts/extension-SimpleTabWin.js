@@ -1,4 +1,4 @@
-module.exports = function (){
+module.exports = function main(){
     "use strict";
     const UMG = require("UMG");
     const I = require('instantiator');
